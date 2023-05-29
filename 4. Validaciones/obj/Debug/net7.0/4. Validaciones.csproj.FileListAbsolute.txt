@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\bin\Debug\net7.0\4. Validaciones.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\bin\Debug\net7.0\4. Validaciones.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\bin\Debug\net7.0\4. Validaciones.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\bin\Debug\net7.0\4. Validaciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\bin\Debug\net7.0\4. Validaciones.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\refint\4. Validaciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\4. Validaciones.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\4. Validaciones\obj\Debug\net7.0\ref\4. Validaciones.dll
