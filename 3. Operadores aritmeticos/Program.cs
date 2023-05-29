@@ -1,4 +1,12 @@
-﻿/*
+﻿// Este un comentario simple
+
+/*
+Este un comentario multilínea
+*/
+
+// ============================================================
+
+/*
 Operadores aritméticos
 
 (+) Suma
