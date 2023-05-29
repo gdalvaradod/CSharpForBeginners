@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\bin\Debug\net7.0\2. Tipos de datos.exe
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\bin\Debug\net7.0\2. Tipos de datos.deps.json
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\bin\Debug\net7.0\2. Tipos de datos.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\bin\Debug\net7.0\2. Tipos de datos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\bin\Debug\net7.0\2. Tipos de datos.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\refint\2. Tipos de datos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\2. Tipos de datos.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\2. Tipos de datos\obj\Debug\net7.0\ref\2. Tipos de datos.dll

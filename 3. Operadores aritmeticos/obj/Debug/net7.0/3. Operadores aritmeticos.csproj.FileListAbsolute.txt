@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\bin\Debug\net7.0\3. Operadores aritmeticos.exe
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\bin\Debug\net7.0\3. Operadores aritmeticos.deps.json
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\bin\Debug\net7.0\3. Operadores aritmeticos.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\bin\Debug\net7.0\3. Operadores aritmeticos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\bin\Debug\net7.0\3. Operadores aritmeticos.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\refint\3. Operadores aritmeticos.dll
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\3. Operadores aritmeticos.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\UNID\Programación Orientada a Objetos\3. Operadores aritmeticos\obj\Debug\net7.0\ref\3. Operadores aritmeticos.dll

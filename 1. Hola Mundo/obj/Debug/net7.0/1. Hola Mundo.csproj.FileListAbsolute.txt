@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\bin\Debug\net7.0\1. Hola Mundo.exe
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\bin\Debug\net7.0\1. Hola Mundo.deps.json
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\bin\Debug\net7.0\1. Hola Mundo.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\bin\Debug\net7.0\1. Hola Mundo.dll
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\bin\Debug\net7.0\1. Hola Mundo.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.dll
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\refint\1. Hola Mundo.dll
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.pdb
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\1. Hola Mundo.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\UNID\1. Hola Mundo\obj\Debug\net7.0\ref\1. Hola Mundo.dll
