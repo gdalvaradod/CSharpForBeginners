@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\bin\Debug\net7.0\5. Ciclos.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\bin\Debug\net7.0\5. Ciclos.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\bin\Debug\net7.0\5. Ciclos.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\bin\Debug\net7.0\5. Ciclos.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\bin\Debug\net7.0\5. Ciclos.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\refint\5. Ciclos.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\5. Ciclos.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\5. Ciclos\obj\Debug\net7.0\ref\5. Ciclos.dll
