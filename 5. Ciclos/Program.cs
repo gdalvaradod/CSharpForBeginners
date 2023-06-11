@@ -1,8 +1,6 @@
 ﻿/*
-Ciclos o loops
-
-For
-While
+Este ejercicio está disponible en la documentación oficial:
+https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/iteration-statements
 */
 
 /*

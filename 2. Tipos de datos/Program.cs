@@ -1,4 +1,10 @@
-﻿// Declaración de variables
+﻿/*
+Este ejercicio está disponible en la documentación oficial:
+https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/declarations
+*/
+
+
+// Declaración de variables
 string nombre = "Jorge"; // Variable NO inicializada
 string apellido = "Obrian"; // Variable inicializada
 

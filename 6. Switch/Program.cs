@@ -1,4 +1,9 @@
-﻿Console.WriteLine("Introduce el número del día");
+﻿/*
+Este ejercicio está disponible en la documentación oficial:
+https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/selection-statements
+*/
+
+Console.WriteLine("Introduce el número del día");
 var dia = Console.ReadLine();
 switch (Int32.Parse(dia)) 
 {

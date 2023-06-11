@@ -1,10 +1,7 @@
-﻿// Este un comentario simple
-
-/*
-Este un comentario multilínea
+﻿/*
+Este ejercicio está disponible en la documentación oficial:
+https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/operators/arithmetic-operators
 */
-
-// ============================================================
 
 /*
 Operadores aritméticos
