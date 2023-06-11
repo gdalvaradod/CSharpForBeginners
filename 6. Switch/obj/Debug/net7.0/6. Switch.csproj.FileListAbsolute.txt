@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\bin\Debug\net7.0\6. Switch.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\bin\Debug\net7.0\6. Switch.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\bin\Debug\net7.0\6. Switch.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\bin\Debug\net7.0\6. Switch.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\bin\Debug\net7.0\6. Switch.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\refint\6. Switch.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\6. Switch.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\6. Switch\obj\Debug\net7.0\ref\6. Switch.dll

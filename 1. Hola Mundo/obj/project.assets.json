@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\1. Hola Mundo\\1. Hola Mundo.csproj",
+      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\1. Hola Mundo\\1. Hola Mundo.csproj",
       "projectName": "1. Hola Mundo",
-      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\1. Hola Mundo\\1. Hola Mundo.csproj",
+      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\1. Hola Mundo\\1. Hola Mundo.csproj",
       "packagesPath": "C:\\Users\\geovanny.alvarado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\1. Hola Mundo\\obj\\",
+      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\1. Hola Mundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geovanny.alvarado\\AppData\\Roaming\\NuGet\\NuGet.Config"

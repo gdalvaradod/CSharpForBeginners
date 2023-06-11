@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\Programación Orientada a Objetos\\2. Tipos de datos\\2. Tipos de datos.csproj",
+      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\2. Tipos de datos\\2. Tipos de datos.csproj",
       "projectName": "2. Tipos de datos",
-      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\Programación Orientada a Objetos\\2. Tipos de datos\\2. Tipos de datos.csproj",
+      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\2. Tipos de datos\\2. Tipos de datos.csproj",
       "packagesPath": "C:\\Users\\geovanny.alvarado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\UNID\\Programación Orientada a Objetos\\2. Tipos de datos\\obj\\",
+      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\2. Tipos de datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geovanny.alvarado\\AppData\\Roaming\\NuGet\\NuGet.Config"
