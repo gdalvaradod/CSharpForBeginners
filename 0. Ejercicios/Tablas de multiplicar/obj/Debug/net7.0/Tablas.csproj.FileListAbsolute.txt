@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Desktop\Tablas\bin\Debug\net7.0\Tablas.exe
+C:\Users\geovanny.alvarado\Desktop\Tablas\bin\Debug\net7.0\Tablas.deps.json
+C:\Users\geovanny.alvarado\Desktop\Tablas\bin\Debug\net7.0\Tablas.runtimeconfig.json
+C:\Users\geovanny.alvarado\Desktop\Tablas\bin\Debug\net7.0\Tablas.dll
+C:\Users\geovanny.alvarado\Desktop\Tablas\bin\Debug\net7.0\Tablas.pdb
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.dll
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\refint\Tablas.dll
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.pdb
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\Tablas.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Desktop\Tablas\obj\Debug\net7.0\ref\Tablas.dll
