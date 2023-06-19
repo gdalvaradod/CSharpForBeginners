@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj",
-      "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\8. Listas\\8. Listas.csproj",
+      "projectName": "8. Listas",
+      "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\8. Listas\\8. Listas.csproj",
       "packagesPath": "C:\\Users\\geovanny.alvarado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\8. Listas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geovanny.alvarado\\AppData\\Roaming\\NuGet\\NuGet.Config"

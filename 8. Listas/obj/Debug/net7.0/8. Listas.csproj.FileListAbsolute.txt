@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\bin\Debug\net7.0\8. Listas.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\bin\Debug\net7.0\8. Listas.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\bin\Debug\net7.0\8. Listas.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\bin\Debug\net7.0\8. Listas.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\bin\Debug\net7.0\8. Listas.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\refint\8. Listas.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\8. Listas.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\8. Listas\obj\Debug\net7.0\ref\8. Listas.dll

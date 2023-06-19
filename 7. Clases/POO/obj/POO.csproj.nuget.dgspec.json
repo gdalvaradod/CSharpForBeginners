@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\7. Clases\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\7. Clases\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj",
-        "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\7. Clases\\POO\\POO.csproj",
+        "projectName": "POO",
+        "projectPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\7. Clases\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\geovanny.alvarado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\0. Ejercicios\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\geovanny.alvarado\\Documents\\Repos\\CSharpForBeginners\\7. Clases\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geovanny.alvarado\\AppData\\Roaming\\NuGet\\NuGet.Config"
