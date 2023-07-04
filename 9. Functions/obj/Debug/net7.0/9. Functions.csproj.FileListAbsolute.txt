@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\bin\Debug\net7.0\9. Functions.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\bin\Debug\net7.0\9. Functions.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\bin\Debug\net7.0\9. Functions.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\bin\Debug\net7.0\9. Functions.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\bin\Debug\net7.0\9. Functions.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\refint\9. Functions.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\9. Functions.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\9. Functions\obj\Debug\net7.0\ref\9. Functions.dll

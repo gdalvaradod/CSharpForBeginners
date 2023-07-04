@@ -13,7 +13,7 @@ Lista de manera lógica
 */
 
 List<string> MisCompras = new List<string>(); // Lista de cadena o string
-// Agregar elementos a nuestra listaa
+// Agregar elementos a nuestra lista
 MisCompras.Add("Huevos");
 MisCompras.Add("Mantequilla");
 MisCompras.Add("Aceite");
