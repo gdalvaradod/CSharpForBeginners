@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\bin\Debug\net7.0\NumeroMayor.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\bin\Debug\net7.0\NumeroMayor.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\bin\Debug\net7.0\NumeroMayor.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\bin\Debug\net7.0\NumeroMayor.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\bin\Debug\net7.0\NumeroMayor.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\refint\NumeroMayor.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\NumeroMayor.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\NumeroMayor\obj\Debug\net7.0\ref\NumeroMayor.dll

@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\bin\Debug\net7.0\11. Herencia.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\bin\Debug\net7.0\11. Herencia.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\bin\Debug\net7.0\11. Herencia.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\bin\Debug\net7.0\11. Herencia.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\bin\Debug\net7.0\11. Herencia.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\refint\11. Herencia.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\11. Herencia.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\11. Herencia\obj\Debug\net7.0\ref\11. Herencia.dll

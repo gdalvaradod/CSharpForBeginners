@@ -9,7 +9,7 @@ For
 for(variable de referencia; condición a cumplir; incremento de variable de referencia)
 */
 for(int i = 0; i < 5; i++){
-    Console.WriteLine(i + 1);
+    Console.Write(i + 1);
 }
 
 /*

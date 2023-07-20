@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\bin\Debug\net7.0\Funciones.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\bin\Debug\net7.0\Funciones.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\bin\Debug\net7.0\Funciones.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\bin\Debug\net7.0\Funciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\bin\Debug\net7.0\Funciones.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\refint\Funciones.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\Funciones.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\0. Ejercicios\Funciones\obj\Debug\net7.0\ref\Funciones.dll
