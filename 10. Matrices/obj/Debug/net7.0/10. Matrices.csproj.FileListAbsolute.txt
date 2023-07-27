@@ -1,0 +1,15 @@
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\bin\Debug\net7.0\10. Matrices.exe
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\bin\Debug\net7.0\10. Matrices.deps.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\bin\Debug\net7.0\10. Matrices.runtimeconfig.json
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\bin\Debug\net7.0\10. Matrices.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\bin\Debug\net7.0\10. Matrices.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.csproj.AssemblyReference.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.AssemblyInfoInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.AssemblyInfo.cs
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.csproj.CoreCompileInputs.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\refint\10. Matrices.dll
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.pdb
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\10. Matrices.genruntimeconfig.cache
+C:\Users\geovanny.alvarado\Documents\Repos\CSharpForBeginners\10. Matrices\obj\Debug\net7.0\ref\10. Matrices.dll
